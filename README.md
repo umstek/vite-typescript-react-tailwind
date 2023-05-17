@@ -2,7 +2,7 @@
 
 ## What we have here
 
-1. Vite
+1. Vite + @vitejs/plugin-react-swc
 2. TypeScript
 3. ReactJS
 4. TailwindCSS
