@@ -1,7 +1,10 @@
 {
   "recommendations": [
-    "bradlc.vscode-tailwindcss",
+    "csstools.postcss",
+    "streetsidesoftware.code-spell-checker",
+    "vivaxy.vscode-conventional-commits",
     "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss"
   ]
 }
